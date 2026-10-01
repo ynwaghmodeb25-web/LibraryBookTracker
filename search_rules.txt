@@ -1,0 +1,3 @@
+Search Rules:
+1. Title Search: Match any keyword case-insensitively against book titles.
+2. Author Search: Match exact or partial author name.
