@@ -1,3 +1,4 @@
 Fine Policy:
 - Overdue books incur $0.50 per day fine.
 - Maximum fine per book is $15.00.
+- Lost book replacement fee: $25.00.
